@@ -1,6 +1,6 @@
 # Springboot REST demo
 
-When running, swagger is available : http://localhost:8080/swagger-ui/index.html
+When running, swagger is available : http://localhost:88/swagger-ui/index.html
 
 ## Debug
 
